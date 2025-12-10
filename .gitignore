@@ -3,3 +3,4 @@ separated_results/
 checkpoints/
 .idea/
 _zz_*
+/.DS_Store
